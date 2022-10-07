@@ -10,7 +10,5 @@ I've taught a lot of classes
 -Other Econ
 -Yet more Econ
 
-Here's a picture of a purple ball
-
-[Purple Ball](https://belusaweb.s3.amazonaws.com/product-images/colors/stress-ball-purple-al2637434-stress-ball-purple.jpg)
-
+Here's a picture of me:
+![image](https://user-images.githubusercontent.com/113388625/194450237-fdbded7f-f74c-48b7-aeca-eb9c44c6403c.png)
