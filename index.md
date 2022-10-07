@@ -12,5 +12,5 @@ I've taught a lot of classes
 
 Here's a picture of a purple ball
 
-[Purple Ball] (https://belusaweb.s3.amazonaws.com/product-images/colors/stress-ball-purple-al2637434-stress-ball-purple.jpg)
+[Purple Ball](https://belusaweb.s3.amazonaws.com/product-images/colors/stress-ball-purple-al2637434-stress-ball-purple.jpg)
 
